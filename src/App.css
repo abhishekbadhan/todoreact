@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  outline: none;
+  line-height: 50px;
+  border: none;
+}
+
+
+
+.App-input {
+  outline: none;
+  border: none;
+  border-bottom: 1px solid;
+  line-height: 19px;
+}
+
+.designtodotext {
+  margin: 0px;
+  border: 2px solid black;
+}
+
+
+#great1 {
+  width: 100vh;
+  font-size: 30px;
+  font-family: unset;
+  color: brown;
+}
+

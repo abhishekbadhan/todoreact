@@ -1,0 +1,19 @@
+.comment {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 8px;
+    border: 2px solid aquamarine;
+}
+
+.comment1 {
+    font-size: 23px;
+    font-family: monospace;
+}
+
+.comment2:hover {
+    color: red;
+    zoom: 4;
+    cursor: pointer;
+    padding: 0%;
+}
+
